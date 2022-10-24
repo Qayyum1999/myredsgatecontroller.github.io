@@ -1,4 +1,6 @@
 # MyREDS Gate Controller
+<a href="https://github.com/Qayyum1999"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Qayyum1999&style=flat-square" width="125"/></a>
+
 An app for improving house residency area. The app serves a purpose to allow residents in residency area to have the ability to control the residency's entrance and exit gates.
 
 This is an app I made for my internship program for 3 months at AR Mechatronics PLT. 
