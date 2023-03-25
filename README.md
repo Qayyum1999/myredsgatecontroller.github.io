@@ -5,6 +5,8 @@ An app for improving house residency area. The app serves a purpose to allow res
 
 This is an app I made for my internship program for 3 months at AR Mechatronics PLT. 
 
+Demo: https://qayyum1999.github.io/myredsgatecontroller.github.io
+
 ## How does it work?
 
 The app have 2 navigation page.
